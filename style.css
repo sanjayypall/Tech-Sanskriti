@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(251,231, 239,0.3);
+}
+.nav{
+    /* border: solid black; */
+    background-color: white;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+.logo{
+    /* border: solid red; */
+    background-color: white;
+    height: 100px;
+    padding-left: 200px;
+    width: 130px;
+    height: 120px;
+}
+.navbar{
+    /* border: solid green; */
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+    font-size: 26px;
+    background-color: white;
+}
+.nav a{
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.sign{
+    background-color: white;
+    border: black solid;
+    border: 10px;
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+    font-size: x-large;
+}
+.sign a{
+    background-color: bisque;
+    border: solid bisque;
+    border-radius: 10px;
+}
+#signup{
+    position: relative;
+    right: 19px;
+}
